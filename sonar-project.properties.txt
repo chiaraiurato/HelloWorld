@@ -17,7 +17,7 @@ sonar.links.issue=https://github.com/chiaraiurato/HelloWorld/issues
 
 sonar.host.url=https://sonarcloud.io
 sonar.organization=chiaraiurato-github
-sonar.login=48df5f51f97b513950e7869965b5c3758d59cc07
+sonar.login=fff4b0fdb522eff0b8078fade50125edbbfb3855
 sonar.sources=src
 sonar.language=java
 
