@@ -1,0 +1,33 @@
+sonar.projectKey=chiaraiurato_HelloWorld
+sonar.projectName=HelloWorld
+
+# =====================================================
+#   Meta-data for the project
+# =====================================================
+
+sonar.links.homepage=https://github.com/chiaraiurato/HelloWorld
+sonar.links.ci=https://travis-ci.org/chiaraiurato/HelloWorld
+sonar.links.scm=https://github.com/chiaraiurato/HelloWorld
+sonar.links.issue=https://github.com/chiaraiurato/HelloWorld/issues
+
+
+# =====================================================
+#   Properties that will be shared amongst all modules
+# =====================================================
+
+sonar.host.url=https://sonarcloud.io
+sonar.organization=chiaraiurato-github
+sonar.login=48df5f51f97b513950e7869965b5c3758d59cc07
+sonar.sources=src
+sonar.language=java
+
+
+
+# =====================================================
+#   Java config
+# =====================================================
+sonar.java.source=1.8
+sonar.java.binaries=.
+
+# Debug
+sonar.verbose=true
